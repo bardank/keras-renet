@@ -2,10 +2,10 @@
 
 This repository contains the keras implementation of ResNet models  (ResNet-50, ResNet-101, and ResNet-152).
 
-* ResNet-v1 
+#### ResNet-v1 
 It is the original implementation described in the paper "Deep Residual Learning for Image Recognition" (http://arxiv.org/abs/1512.03385). 
 
-* Resnet-v2 
+#### Resnet-v2 
 It is the improved implemenation of original ResNet described in the paper "Identity Mappings in Deep Residual Networks" (https://arxiv.org/pdf/1603.05027.pdf).
 
 The improvement is mainly found in the arrangement of layers in the residual block as shown in following figure.
